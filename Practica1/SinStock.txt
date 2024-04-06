@@ -1,0 +1,6 @@
+ 11 33.00    samsung
+ 44 0    pobre
+    sam
+ 22 342.00    apple
+ 22 0    chetos
+    manzanita

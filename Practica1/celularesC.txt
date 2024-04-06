@@ -1,0 +1,18 @@
+ 11 33.00   samsung
+ 55 44   pobre
+   sam
+ 22 342.00   apple
+ 11 22   chetos
+   manzanita
+ 33 44.00   xiaomi
+ 20 22   china
+   xia
+ 44 8.00   nokia
+ 45 34   duro
+   nok
+ 52 44.00 motorola
+ 11 22 nuevo
+ moto
+ 87 3.00 jbl
+ 55 44 raro
+ jb
